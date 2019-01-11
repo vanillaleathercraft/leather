@@ -1,5 +1,7 @@
 # Leather Templates
 ## About
+Template files were created with [Affinity Designer](https://affinity.serif.com/en-us/designer/) and are in that application's format.
+
 These templates allow you to create your own leather items using materials and construction of your choice. Modify as needed to compensate for differences in materials. These were originally created for 8-10 oz English Bridle leather with 4 oz New Zealand deer liners.
 
 ## Cuffs & Collars
