@@ -9,7 +9,9 @@ Here are some build logs showing how to use the templates to make some gear:
 
 [Black & Red Cuffs](https://imgur.com/a/nU4Y8Vs): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
 
-[Muzzle Prototype](https://imgur.com/a/epwkF): This was the initial prototype for the muzzle. It's changed a bit since this was made, and a full build is in progress.
+[Muzzle Harness Prototype](https://imgur.com/a/epwkF): This was the initial prototype for the muzzle harness. It's changed a bit since this was made, and a full build is in progress.
+
+[Muzzle Harness](https://imgur.com/a/etM2HZE): This is a complete build of the muzzle harness.
 
 ## About
 Template files were created with [Affinity Designer](https://affinity.serif.com/en-us/designer/) and are in that application's format for easy modification as well as PDF.
