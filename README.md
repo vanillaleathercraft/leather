@@ -30,6 +30,4 @@ This template is inspired by [Church of Sinvention's](https://www.churchofsinven
 
 ###### Muzzle Harness
 
-This template has been prototyped, but has not had a complete build of the final version. Use at your own risk :)
-
 This template is inspired by the aesthetic of various muzzle harnesses I've seen around the 'net, including the Insex [face hugger](http://promo.insex.com/museum/images/face_hugger.jpg), the TiedStyle [face hugger](https://www.deviantart.com/tiedstyle/art/FaceHugger-771251797), the [Top to Bottom Leather](https://www.top-to-bottom-leathers.co.uk/Bondage-Equipment/Bondage-Gags/Ultimate-Bondage-Gag-Harness.htm) ultimate bondage gag harness, the [House of Basciano](https://www.etsy.com/shop/HouseofBasciano) padded muzzle harness, and others. It works by applying pressure to the lower jaw to hold the mouth closed. It also looks cool.
