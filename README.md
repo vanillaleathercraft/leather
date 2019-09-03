@@ -13,6 +13,8 @@ Here are some build logs showing how to use the templates to make some gear:
 
 [Muzzle Harness](https://imgur.com/a/etM2HZE): This is a complete build of the muzzle harness.
 
+[O-Ring Collar](https://imgur.com/a/JBK5dY9): 8-10 oz English bridle (though you might consider something like 5-6 oz), 4 oz deer.
+
 ## About
 Template files were created with [Affinity Designer](https://affinity.serif.com/en-us/designer/) and are in that application's format for easy modification as well as PDF.
 
