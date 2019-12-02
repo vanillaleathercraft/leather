@@ -3,11 +3,13 @@
 
 Here are some build logs showing how to use the templates to make some gear:
 
-[Black & Purple Cuffs + Collar](https://imgur.com/a/9kPTv): 8-10 oz English Bridle, 3 oz deer, padded, slotted holes, locking buckles.
+[Brown & White "Single Rivet Cuffs"](https://imgur.com/a/bi33mpl): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
 
-[Black & Red Cuffs](https://imgur.com/a/EMgpw): 8-10 oz English Bridle, 4 oz deer, round holes, regular buckles.
+[Black & Purple "Double Rivet Cuffs" + "3-Ring Bondage Collar"](https://imgur.com/a/9kPTv): 8-10 oz English Bridle, 3 oz deer, padded, slotted holes, locking buckles.
 
-[Black & Red Cuffs](https://imgur.com/a/nU4Y8Vs): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
+[Black & Red "Double Rivet Cuffs"](https://imgur.com/a/EMgpw): 8-10 oz English Bridle, 4 oz deer, round holes, regular buckles.
+
+[Black & Red "Double Rivet Cuffs"](https://imgur.com/a/nU4Y8Vs): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
 
 [Muzzle Harness Prototype](https://imgur.com/a/epwkF): This was the initial prototype for the muzzle harness. It's changed a bit since this was made, and a full build is in progress.
 
