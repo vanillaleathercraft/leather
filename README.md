@@ -3,6 +3,8 @@
 
 Here are some build logs showing how to use the templates to make some gear:
 
+[Brown & White "Slot Cuffs"](https://imgur.com/a/7vZOZBT): 8-10 oz English Bridle, 4 oz deer, slotted holes.
+
 [Brown & White "Single Rivet Cuffs"](https://imgur.com/a/bi33mpl): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
 
 [Black & Purple "Double Rivet Cuffs" + "3-Ring Bondage Collar"](https://imgur.com/a/9kPTv): 8-10 oz English Bridle, 3 oz deer, padded, slotted holes, locking buckles.
