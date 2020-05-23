@@ -29,6 +29,12 @@ These templates allow you to create your own leather items using materials and c
 ###### Double Rivet Cuffs
 This template is inspired by [Church of Sinvention's](https://www.churchofsinvention.com/) "Padded Medical Bondage Cuffs" modified with choice of slotted or round holes and various widths. Slotted holes work with locking buckles while round holes provide more adjustment points. Builder may choose lining material, hardware, and stitching color. I've had great success with 4oz New Zealand deer for liners without padding.
 
+###### Double Rivet Cuffs
+Similar to the "Double Rivet" design, but modified to use a single rivet on each side of a closure for a more sleek look. Recommend using larger rivets to keep the Ds from sliding around too much.
+
+###### Slot Cuffs
+Inspired by the practical aspects of Humane Restraint medical cuffs, these are meant to be used with a padlock. They are quick to apply and remove thanks to not needing to pull a belt tight to get a snug fit.
+
 ###### 3-Ring Bondage Collar
 This template is inspired by [Church of Sinvention's](https://www.churchofsinvention.com/) "DeLuxe Leather Slave Collar", with modifications similar to the Double Rivet Cuffs.
 
