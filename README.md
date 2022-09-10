@@ -28,6 +28,8 @@ Template files were created with [Affinity Designer](https://affinity.serif.com/
 
 These templates allow you to create your own leather items using materials and construction of your choice. Modify as needed to compensate for differences in materials. These were originally created for 8-10 oz English Bridle leather with 4 oz New Zealand deer liners.
 
+Check out the metric conversion fork of this repo here: https://github.com/JorgeManoDura/LeatherTemplatesMetricConversion
+
 ## Cuffs & Collars
 
 ###### Double Rivet Cuffs
