@@ -21,7 +21,7 @@ Here are some build logs showing how to use the templates to make some gear:
 
 [O-Ring Collar](https://imgur.com/a/JBK5dY9): 8-10 oz English bridle (though you might consider something like 5-6 oz), 4 oz deer.
 
-[Breast Harness](https://imgur.com/a/0PYNP7h): 8 oz English bridle.
+[Breast Harness](https://imgchest.com/p/qe4g985oyj2): 8 oz English bridle.
 
 ## About
 Template files were created with [Affinity Designer](https://affinity.serif.com/en-us/designer/) and are in that application's format for easy modification as well as PDF.
