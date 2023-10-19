@@ -3,23 +3,19 @@
 
 Here are some build logs showing how to use the templates to make some gear:
 
-[Brown & White "Slot Cuffs"](https://imgur.com/a/7vZOZBT): 8-10 oz English Bridle, 4 oz deer, slotted holes.
+[Brown & White "Slot Cuffs"](https://imgchest.com/p/pg739k8k37r): 8-10 oz English Bridle, 4 oz deer, slotted holes.
 
-[Brown & White "Single Rivet Cuffs"](https://imgur.com/a/bi33mpl): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
+[Brown & White "Single Rivet Cuffs"](https://imgchest.com/p/md7ogzvg9yp): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
 
-[Black & Purple "Double Rivet Cuffs" + "3-Ring Bondage Collar"](https://imgur.com/a/9kPTv): 8-10 oz English Bridle, 3 oz deer, padded, slotted holes, locking buckles.
+[Black & Purple "Double Rivet Cuffs" + "3-Ring Bondage Collar"](https://imgchest.com/p/vj4jdo6d548): 8-10 oz English Bridle, 3 oz deer, padded, slotted holes, locking buckles.
 
-[Black & Red "Double Rivet Cuffs"](https://imgur.com/a/EMgpw): 8-10 oz English Bridle, 4 oz deer, round holes, regular buckles.
+[Black & Red "Double Rivet Cuffs"](https://imgchest.com/p/qe4gdv8do4j): 8-10 oz English Bridle, 4 oz deer, round holes, regular buckles.
 
-[Black & Red "Double Rivet Cuffs"](https://imgur.com/a/nU4Y8Vs): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
+[Black & Red Locking "Double Rivet Cuffs"](https://imgchest.com/p/dl7pjg6q87o): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
 
-[Black on Black "Double Rivet Thigh Cuffs](https://imgur.com/a/mK96qS7): 8-10 oz English Bridle, 4 oz deer, slotted holes, locking buckles.
+[Muzzle Harness](https://imgchest.com/p/na7kzxnwk78): This is a complete build of the muzzle harness.
 
-[Muzzle Harness Prototype](https://imgur.com/a/epwkF): This was the initial prototype for the muzzle harness. It's changed a bit since this was made, and a full build is in progress.
-
-[Muzzle Harness](https://imgur.com/a/etM2HZE): This is a complete build of the muzzle harness.
-
-[O-Ring Collar](https://imgur.com/a/JBK5dY9): 8-10 oz English bridle (though you might consider something like 5-6 oz), 4 oz deer.
+[O-Ring Collar](https://imgchest.com/p/pg739k8k37r): 8-10 oz English bridle (though you might consider something like 5-6 oz), 4 oz deer.
 
 [Breast Harness](https://imgchest.com/p/qe4g985oyj2): 8 oz English bridle.
 
