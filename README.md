@@ -15,7 +15,7 @@ Here are some build logs showing how to use the templates to make some gear:
 
 [Muzzle Harness](https://imgchest.com/p/na7kzxnwk78): This is a complete build of the muzzle harness.
 
-[O-Ring Collar](https://imgchest.com/p/pg739k8k37r): 8-10 oz English bridle (though you might consider something like 5-6 oz), 4 oz deer.
+[O-Ring Collar](https://imgchest.com/p/qe4gdv8lo4j): 8-10 oz English bridle (though you might consider something like 5-6 oz), 4 oz deer.
 
 [Breast Harness](https://imgchest.com/p/qe4g985oyj2): 8 oz English bridle.
 
